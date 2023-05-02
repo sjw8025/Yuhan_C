@@ -1,5 +1,5 @@
 # Yuhan_C
 * Yuhann univ. c Language
-   *학 번
-   *이 름
-   
+   * 202327029
+   * 송재원
+   #
