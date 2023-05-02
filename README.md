@@ -1,2 +1,5 @@
 # Yuhan_C
-유한대학교 C Language
+* Yuhann univ. c Language
+   *학 번
+   *이 름
+   
